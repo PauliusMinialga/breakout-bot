@@ -85,4 +85,5 @@ The bot will run continuously, checking for breakout opportunities every 28 seco
 ## Disclaimer
 This bot is for educational purposes only. Trading involves risk, and past performance is not indicative of future results. Use at your own discretion.
 
-* **Code is currently in writing and will be pushed as soon as the bot is done**
+----
+P.S. **Code is currently in writing and will be pushed as soon as the bot is done**
